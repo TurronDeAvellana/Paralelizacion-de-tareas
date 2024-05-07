@@ -47,6 +47,8 @@ package object Benchmark {
 
  */
 
+  /*
+
   def compararProdPunto(n:Int) = {
     // Para probar con paralelismo de datos
     val v1= vectorAlAzar(n,2)
@@ -67,4 +69,6 @@ package object Benchmark {
     val speedUp= timeA1.value/timeA2.value
     (timeA1.value, timeA2.value, speedUp)
   }
+
+   */
 }
